@@ -6,4 +6,4 @@ First download files and unzip them in a folder, then:
 2. in the extensions window, activate developer mode in the upper right corner of the window.
 3. then click load unpacked and choose the folder.
 4. now you can enjoy LinkedIn with RTL support.
-you can deactivate the extension to make things back to normal
+you can deactivate the extension to make things go back to normal
